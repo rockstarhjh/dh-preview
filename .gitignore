@@ -1,0 +1,14 @@
+# 관리자 전용 파일 및 빌드 결과물
+admin.json
+img-admin/
+dist-admin/
+
+# 가상환경 및 IDE 설정
+venv/
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+# 원본/미사용 아카이브
+_archive/
